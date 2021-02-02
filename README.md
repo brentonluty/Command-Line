@@ -7,7 +7,7 @@ The information contained within the individual CSVs are students enrolled in a 
 
 Consequently, the programmer has to keep track of all the id numbers floating around, whether or not a student has taken the full course load, and develop logic for when a student has not taken the full course load.
 
-Through this project, I learned how to carefully 
+Through this project, I definitely learned more of the ins and outs of Python and how it operates. I gained further knowledge on how to carefully plan the types of variables, what I am going to do with those variables, and the planning and building stages of a program.
 
 Please note:
-  While the program runs as expected, I have not yet taken steps to make sure all the fields have been properly filled out, check whether or not correct types have been filled in (ints where ints are expected, strings/chars where strings/chars are expected, etc.
+  While the program runs as expected, I have not yet taken steps to make sure all the fields have been properly filled out, check whether or not correct types have been filled in (ints where ints are expected, strings/chars where strings/chars are expected, etc. I will continue to work on the program to further refine and polish it.

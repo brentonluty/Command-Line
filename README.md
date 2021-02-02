@@ -7,7 +7,7 @@ The information contained within the individual CSVs are students enrolled in a 
 
 Consequently, the programmer has to keep track of all the id numbers floating around, whether or not a student has taken the full course load, and develop logic for when a student has not taken the full course load.
 
-Some things I learned 
+Through this project, I learned how to carefully 
 
 Please note:
-  While the program runs as expected, I have not yet taken steps to make sure all the fields have been properly filled out, check whether or not correct 
+  While the program runs as expected, I have not yet taken steps to make sure all the fields have been properly filled out, check whether or not correct types have been filled in (ints where ints are expected, strings/chars where strings/chars are expected, etc.
